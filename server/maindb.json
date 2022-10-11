@@ -1,0 +1,66 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "71907a29a9814144e1cef9ba657366c5",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-20T06:23:36.797Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/apktool.jar\" b \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled\" -o \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/assets/webpublic/build.apk\"\nS: WARNING: Could not write to (/root/.local/share/apktool/framework), using /tmp instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\njava.io.FileNotFoundException: /mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled/build/apk/classes.dex (Invalid argument)\n"
+      },
+      {
+        "time": "2022-06-20T06:24:06.689Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/apktool.jar\" b \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled\" -o \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/assets/webpublic/build.apk\"\njava.io.FileNotFoundException: /mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled/build/apk/classes.dex (Invalid argument)\n"
+      },
+      {
+        "time": "2022-06-20T06:29:56.594Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/apktool.jar\" b \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled\" -o \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/assets/webpublic/build.apk\"\njava.io.FileNotFoundException: /mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled/build/apk/classes.dex (Invalid argument)\n"
+      },
+      {
+        "time": "2022-06-20T06:38:41.159Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/apktool.jar\" b \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled\" -o \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/assets/webpublic/build.apk\"\njava.io.FileNotFoundException: /mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled/build/apk/classes.dex (Invalid argument)\n"
+      },
+      {
+        "time": "2022-06-20T06:39:56.161Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-20T06:40:55.149Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-31T14:12:46.363Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/apktool.jar\" b \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled\" -o \"/mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/assets/webpublic/build.apk\"\njava.io.FileNotFoundException: /mnt/c/Users/rohan/Desktop/Hack/XploitSPY/server/app/factory/decompiled/build/apk/classes.dex (Invalid argument)\n"
+      },
+      {
+        "time": "2022-07-31T14:14:56.613Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-31T14:22:39.981Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-31T14:25:26.165Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
